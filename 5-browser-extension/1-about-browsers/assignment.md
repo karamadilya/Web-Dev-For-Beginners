@@ -3,7 +3,7 @@
 ## Instructions
 
 The codebase for this extension comes complete with styles, but you don't have to use them; make your extension your own by restyling it by editing its css file.
-
+#docs
 ## Rubric
 
 | Criteria | Exemplary                                    | Adequate              | Needs Improvement |
